@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  10 JUN 2026 23:04
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  10 JUL 2026 17:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1573,11 +1573,101 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
 (Font)              scaled to size 15.84007pt on input line 44.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
 (Font)              scaled to size 15.84007pt on input line 44.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
+(Font)              scaled to size 13.20007pt on input line 48.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/b/n' will be
+(Font)              scaled to size 13.20007pt on input line 48.
 File: 2.1.png Graphic file (type bmp)
 <2.1.png>
+File: 2.1-so.jpg Graphic file (type bmp)
+<2.1-so.jpg>
+
+Overfull \hbox (1.96045pt too wide) in paragraph at lines 50--52
+[][][][][] [][][] []
+ []
+
+File: plt_(2-1).png Graphic file (type bmp)
+<plt_(2-1).png>
+
+Overfull \hbox (7.33385pt too wide) detected at line 62
+\OML/lmm/m/it/10.95 F \OT1/lmr/m/n/10.95 = [] = []\OML/lmm/m/it/10.95 N \OT1/lm
+r/m/n/10.95 = \OMS/lmsy/m/n/10.95 ^^@[][][][][][][][][][][][][][][][][]\OML/lmm
+/m/it/10.95 N \OT1/lmr/m/n/10.95 = \OMS/lmsy/m/n/10.95 ^^@[][][][] ^^B [][][]\O
+ML/lmm/m/it/10.95 N
+ []
 
 
-[4] (./My Solution Milford.aux)
+
+[4]
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 8.80005pt on input line 65.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 6.60004pt on input line 65.
+File: 2.3-so.jpg Graphic file (type bmp)
+<2.3-so.jpg>
+
+
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/sl' in size <10.95> not avai
+lable
+(Font)              Font shape `TU/XBNiloofar(1)/m/it' tried instead on input l
+ine 74.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/m/it' will be
+(Font)              scaled to size 12.04506pt on input line 74.
+[5]
+File: 2.4fig.png Graphic file (type bmp)
+<2.4fig.png>
+File: 2.4fig2.png Graphic file (type bmp)
+<2.4fig2.png>
+File: 2.4plot.png Graphic file (type bmp)
+<2.4plot.png>
+File: 2.4-so.jpg Graphic file (type bmp)
+<2.4-so.jpg>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[6]
+
+LaTeX Warning: Text page 7 contains only floats.
+
+
+Overfull \vbox (6.85558pt too high) has occurred while \output is active []
+
+
+
+[7]
+File: 2.5fig2.png Graphic file (type bmp)
+<2.5fig2.png>
+File: 2.5-so1.jpg Graphic file (type bmp)
+<2.5-so1.jpg>
+File: 2.5plt.png Graphic file (type bmp)
+<2.5plt.png>
+
+
+[8]
+File: 2.5-so2.jpg Graphic file (type bmp)
+<2.5-so2.jpg>
+File: 2.6fig.png Graphic file (type bmp)
+<2.6fig.png>
+File: 2.6-so.jpg Graphic file (type bmp)
+<2.6-so.jpg>
+
+
+[9]
+File: 2.7plt.png Graphic file (type bmp)
+<2.7plt.png>
+File: 2.7-so.jpg Graphic file (type bmp)
+<2.7-so.jpg>
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+
+
+[10]
+
+[11] (./My Solution Milford.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1586,12 +1676,12 @@ Package rerunfilecheck Info: File `"My Solution Milford".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 38753 strings out of 473832
- 944424 string characters out of 5729482
- 1415142 words of memory out of 5000000
- 61121 multiletter control sequences out of 15000+600000
- 575894 words of font info for 111 fonts, out of 8000000 for 9000
+ 38992 strings out of 473832
+ 948605 string characters out of 5729482
+ 1419588 words of memory out of 5000000
+ 61348 multiletter control sequences out of 15000+600000
+ 575934 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,8n,107p,1218b,479s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on My Solution Milford.pdf (4 pages).
+Output written on My Solution Milford.pdf (11 pages).
