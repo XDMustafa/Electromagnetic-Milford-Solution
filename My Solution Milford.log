@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  10 JUL 2026 17:17
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  10 JUL 2026 19:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1658,16 +1658,32 @@ File: 2.6-so.jpg Graphic file (type bmp)
 [9]
 File: 2.7plt.png Graphic file (type bmp)
 <2.7plt.png>
+File: 2.7plt3D.png Graphic file (type bmp)
+<2.7plt3D.png>
 File: 2.7-so.jpg Graphic file (type bmp)
 <2.7-so.jpg>
+File: 2.8-so.jpg Graphic file (type bmp)
+<2.8-so.jpg>
 
-Underfull \vbox (badness 1478) has occurred while \output is active []
+Underfull \vbox (badness 1442) has occurred while \output is active []
 
 
 
 [10]
 
-[11] (./My Solution Milford.aux)
+[11]
+File: 2.9-so.jpg Graphic file (type bmp)
+<2.9-so.jpg>
+
+
+[12]
+File: 2.10plt.png Graphic file (type bmp)
+<2.10plt.png>
+
+
+[13]
+
+[14] (./My Solution Milford.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1676,12 +1692,12 @@ Package rerunfilecheck Info: File `"My Solution Milford".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 38992 strings out of 473832
- 948605 string characters out of 5729482
- 1419588 words of memory out of 5000000
- 61348 multiletter control sequences out of 15000+600000
+ 39074 strings out of 473832
+ 949965 string characters out of 5729482
+ 1421843 words of memory out of 5000000
+ 61430 multiletter control sequences out of 15000+600000
  575934 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,8n,107p,1218b,479s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on My Solution Milford.pdf (11 pages).
+Output written on My Solution Milford.pdf (14 pages).

@@ -7,5 +7,9 @@
 \contentsline {subsection}{\numberline {0.2.5}}{8}{subsection.0.2.5}%
 \contentsline {subsection}{\numberline {0.2.6}}{9}{subsection.0.2.6}%
 \contentsline {subsection}{\numberline {0.2.7}}{10}{subsection.0.2.7}%
-\contentsline {section}{\numberline {0.3}فصل سوم: حل‌المسائل الکترواستاتیک}{11}{section.0.3}%
-\contentsline {section}{\numberline {0.4}فصل چهارم: میدان الکترواستاتیک در محیط‌های دی‌الکتریک}{11}{section.0.4}%
+\contentsline {subsection}{\numberline {0.2.8}}{11}{subsection.0.2.8}%
+\contentsline {subsection}{\numberline {0.2.9}}{12}{subsection.0.2.9}%
+\contentsline {subsection}{\numberline {0.2.10}}{13}{subsection.0.2.10}%
+\contentsline {subsection}{\numberline {0.2.11}}{13}{subsection.0.2.11}%
+\contentsline {section}{\numberline {0.3}فصل سوم: حل‌المسائل الکترواستاتیک}{14}{section.0.3}%
+\contentsline {section}{\numberline {0.4}فصل چهارم: میدان الکترواستاتیک در محیط‌های دی‌الکتریک}{14}{section.0.4}%
